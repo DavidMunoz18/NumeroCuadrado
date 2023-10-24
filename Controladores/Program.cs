@@ -1,7 +1,16 @@
 ﻿namespace NumeroCuadrado.Controladores;
 
+/// <summary>
+/// clase principal de la aplicación
+/// 241023 - dmp
+/// </summary>
 class program
 {
+    /// <summary>
+    /// Metodo de entrada de la aplicación
+    /// 241023 - dmp
+    /// </summary>
+    /// <param name="args"></param>
     static void Main(string[] args)
     {
         MenuInterfaz menu = new MenuImplementacion();

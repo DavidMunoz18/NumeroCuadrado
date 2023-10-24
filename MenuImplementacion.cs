@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace NumeroCuadrado
 {
+    /// <summary>
+    /// Contiene la logica de las cabeceras de los metodos
+    /// </summary>
     internal class MenuImplementacion : MenuInterfaz
     {
         public void mostrarMensajeBienvenida()
